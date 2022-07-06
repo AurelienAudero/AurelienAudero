@@ -26,12 +26,12 @@ Things about me :
 - 🔭 I'm a High School Student studying Computer Science.
 - 📲 I am really interested in technology, from hardware to software.
 - 📫 You can reach me on [LinkedIn](https://fr.linkedin.com/in/aurélien-audero-3a06061bb).
-- 😄 I have a few repository that you can see.
+- 😄 I have a few repository that you can see [here](https://github.com/AurelienAudero?tab=repositories).
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" title="python" alt="python"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50" title="html" alt="html"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50" title="css3" alt="css3"/>&nbsp;
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" title="python" alt="python"/>&nbsp;</a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50" title="html" alt="html"/>&nbsp;</a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50" title="css3" alt="css3"/>&nbsp;</a>
 </p>
 
 ![AurelienAudero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AurelienAudero&show_icons=true&title_color=FFFFFF&include_all_commits=true&text_color=FFFFFF&icon_color=FFFFFF&bg_color=50,2BA1F4,31C4C5,3CEC99)
