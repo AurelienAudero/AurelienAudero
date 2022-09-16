@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Computer Science Student. You will find here some of my Projects and my Hackintosh EFI 🖥.</h3>
 
 Things about me :
-- 👨‍💻 I'm 15 year old.
+- 👨‍💻 I'm 16 year old.
 - 🇫🇷 I'm French.
 - 🤔 I develop using Python, HTML5 and CSS. I'm also learning other programming languages.
 - 🔭 I'm a High School Student studying Computer Science, Math and Physics.
