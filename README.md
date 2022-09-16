@@ -23,7 +23,7 @@ Things about me :
 - 👨‍💻 I'm 15 year old.
 - 🇫🇷 I'm French.
 - 🤔 I develop using Python, HTML5 and CSS. I'm also learning other programming languages.
-- 🔭 I'm a High School Student studying Computer Science.
+- 🔭 I'm a High School Student studying Computer Science, Math and Physics.
 - 📲 I am really interested in technology, from hardware to software.
 - 📫 You can reach me on [LinkedIn](https://bit.ly/LinkedIn-AurelienAudero).
 - 😄 I have a few repository that you can see [here](https://github.com/AurelienAudero?tab=repositories).
