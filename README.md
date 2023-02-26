@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <h1 align="center"> I'm Aurélien Audero </h1> 
 
-<h3 align="center">Computer Science Student. You will find here some of my Projects and my Hackintosh EFI 🖥.</h3>
+<h3 align="center">11th Grade Computer Science Student. You will find here some of my Projects and my Hackintosh EFI 🖥.</h3>
 
 Things about me :
 - 👨‍💻 I'm 16 year old.
 - 🇫🇷 I'm French.
 - 🤔 I develop using Python, HTML5 and CSS. I'm also learning other programming languages.
-- 🔭 I'm a High School Student studying Computer Science, Math and Physics.
+- 🔭 I'm a 11th grade High School Student studying Computer Science, Math and Physics.
 - 📲 I am really interested in technology, from hardware to software.
 - 📫 You can reach me on [LinkedIn](https://bit.ly/LinkedIn-AurelienAudero).
 - 😄 I have a few repository that you can see [here](https://github.com/AurelienAudero?tab=repositories).
