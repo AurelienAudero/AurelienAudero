@@ -34,4 +34,8 @@ Things about me :
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50" title="css3" alt="css3"/>&nbsp;</a>
 </p>
 
-![AurelienAudero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AurelienAudero&show_icons=true&title_color=FFFFFF&include_all_commits=true&text_color=FFFFFF&icon_color=FFFFFF&bg_color=50,2BA1F4,31C4C5,3CEC99)
+---
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AurelienAudero&show_icons=true&title_color=FFFFFF&include_all_commits=true&text_color=FFFFFF&icon_color=FFFFFF&bg_color=50,2BA1F4,31C4C5,3CEC99" height="200" title="AurelienAudero's GitHub Stats" alt="AurelienAudero's GitHub Stats"/>
+  <a href="[https://www.python.org](https://www.cloudskillsboost.google/public_profiles/885ac272-9844-42d3-b7a1-09dfe5de63b5/badges/3245686)"><img src="https://cdn.qwiklabs.com/c6hU2KfzqwAtcpIiBV%2Fmv857VIzHNR45kxI97TmuezU%3D" height="200" title="Using the Cloud SDK Command Line" alt="Using the Cloud SDK Command Line"/>&nbsp;</a>
+</div>
