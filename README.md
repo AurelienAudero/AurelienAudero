@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hey there 👋
-**I'm Aurélien Audero (he/him)** - I'm a 17 year old French guy and currently a 12th grade high school student studying Computer Science and Mathematics. I'm really interested in technology, from hardware to software. Here you will find some of my projects as well as my Hackintosh EFI.
+**I'm Aurélien Audero (he/him)** - I'm a 17 year old French student in my first year of a computer science bachelor's degree. I'm really interested in technology, from hardware to software. Here you will find some of my projects as well as my Hackintosh EFI.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mysql,googlecloud,vscode,docker,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,python,mysql,markdown,googlecloud,vscode,docker,photoshop,figma,apple,windows,linux)]()
 
 <details>
   <summary>⚡️ Google Cloud Skill Badges</summary>
