@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hey there 👋
-**I'm Aurélien Audero (he/him)** - I'm a 17 year old French student in my first year of a computer science bachelor's degree. I'm really interested in technology, from hardware to software. Here you will find some of my projects as well as my Hackintosh EFI.
+**I'm Aurélien Audero (he/him)** - I'm a 18 year old French student in my first year of a computer science bachelor's degree. I'm really interested in technology, from hardware to software. Here you will find some of my projects as well as my Hackintosh EFI.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,python,mysql,markdown,googlecloud,vscode,docker,photoshop,figma,apple,windows,linux)]()
 
